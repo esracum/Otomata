@@ -50,15 +50,7 @@ def main():
                      
     else:
         print("Girilen ifade matematiksel bir ifade değildir")   
-        
-        
-        
-              
-        
-        
-         
-
-        
+                      
 
 
 if __name__ == "__main__":
